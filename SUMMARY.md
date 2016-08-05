@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](introduction.md)
-* About
+* [About](about.md)
 
