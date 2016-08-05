@@ -7,7 +7,7 @@
    * [Where Python Fits in](where_python_fits_in.md)
    * [Setting up accounts on pythonanywhere.com](setting_up_accounts_on_pythonanywherecom.md)
    * [Basic IO](basic_io.md)
-   * Comments
+   * [Comments](comments.md)
 * [Libraries and Frameworks](libraries_and_frameworks.md)
    * Libraries
        * NLTK
