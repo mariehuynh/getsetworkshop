@@ -5,4 +5,5 @@
 * [About](about.md)
 * [Hardware](hardware.md)
    * What is programming?
+* Intro to Python
 
