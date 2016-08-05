@@ -6,6 +6,7 @@
    * [What is programming?](what_is_programming.md)
    * [Where Python Fits in](where_python_fits_in.md)
    * [Setting up accounts on pythonanywhere.com](setting_up_accounts_on_pythonanywherecom.md)
+   * Basic IO
 * [Libraries and Frameworks](libraries_and_frameworks.md)
    * Libraries
        * NLTK
