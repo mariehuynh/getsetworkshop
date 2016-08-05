@@ -4,5 +4,5 @@
 * [Intro to Python](intro_to_python.md)
    * Hardware
 * [About](about.md)
-* Libraries and Frameworks
+* [Libraries and Frameworks](libraries_and_frameworks.md)
 
