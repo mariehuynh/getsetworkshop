@@ -12,7 +12,7 @@ Each major section was presented in one 6-hour workshop to students who had just
 * reading and modifying example code provided by libraries on github
 
 
-Of course, the devil's in the details, and you can't cover everything in 6 hours, but they don't need to know every single type available to understand typecasting well enough to use it.  They don't need to know every type of control structure available to be able to start using them to write games.  If they are interested in continuing to develop programming skills, those details will come in time, and should be trivial to grasp after the first few.
+Of course, the devil's in the details, and you can't cover everything in 6 hours, but they don't need to know every single type available to understand typecasting well enough to use it.  They don't need to know every type of control structure available to be able to start using a few to write games.  Remember that people did amazing things with just assembly.  If they are interested in continuing to develop programming skills, those details will come in time, and should be trivial to grasp after the first few.
 
 As a woman in engineering, it is frustrating to see intro materials for young girls decked out in pink with dolls.  Toys superficially touching on logic with no deep challenges or attempts to teach real tools that they will be able to use beyond the little games does them a great disservice when boys their age are taken to hackathons.  Dolls did not make me an engineer.  A love for creating did.  Dolls of engineers would not have made a difference to me.
 
