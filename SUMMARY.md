@@ -14,8 +14,5 @@
         * [NLTK](nltk.md)
         * [Word Cloud](word-cloud.md)
             * [Installing the library](installing-the-library.md)
-            * [Getting the Files](running-the-example.md)
-            * [Running the Example](running-the-example.md)
-            * [Running the Example](running-the-example.md)
 * [About](about.md)
 
