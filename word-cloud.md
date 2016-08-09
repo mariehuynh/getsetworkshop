@@ -14,20 +14,6 @@ Sample code is here:
 
 
 
-Back to the console!
-
-* Get out of python
-  * quit\(\)
-
-* install wordcloud library
-  * pip install wordcloud -t .
-
-* Copy these raw files to your server
-  * masked.py
-  * alice\_mask.png
-  * alice.txt
-
-
 * In the console, type
   * python masked.py
 
