@@ -1,4 +1,4 @@
-#Running the example
+# Getting the Files
 
 You will need to copy these files to your server.
 
@@ -12,6 +12,8 @@ There are several ways to do this.
 For the image, right click on the image, choose "Save Image As...", then save it somewhere you can find it.  
 
 For the code and book, you can save via the File menu.  You can also press CTRL+S (⌘-S on Mac).
+
+Upload by clicking on the upload button on pythonanywhere's Files page.
 
 #### Nerd Level 1 - command line: cURL
 cURL is the command line tool for getting or sending files via URL syntax.  It was first released in 1997 and still has stable releases in 2016 because it's super useful.  As with most command line tools, it's designed to do one thing and do it well.  
