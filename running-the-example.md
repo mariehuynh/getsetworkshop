@@ -38,4 +38,3 @@ For more power user flag options, [check out the curl manual.](https://curl.haxx
 This is left as an exercise for the reader
 
 
-
