@@ -89,7 +89,7 @@ max_font_size:wc = WordCloud(background_color="white",
 
 ```
 
-* Documentation
+### Documentation
   * [http:\/\/amueller.github.io\/word\_cloud\/](http://amueller.github.io/word_cloud/)
   * [http:\/\/amueller.github.io\/word\_cloud\/generated\/wordcloud.WordCloud.html\#wordcloud.WordCloud](http://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html#wordcloud.WordCloud)
 
