@@ -14,5 +14,6 @@
         * [NLTK](nltk.md)
         * [Word Cloud](word-cloud.md)
             * [Installing the library](installing-the-library.md)
+            * [Getting the Files](getting-the-files.md)
 * [About](about.md)
 
