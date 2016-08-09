@@ -8,7 +8,7 @@ You will need to copy these files to your server.
 
 There are several ways to do this.  
 
-#### Nerd Level 0 - Download and upload the files.
+#### Nerd Level 0 - Download and upload the files
 
 
 #### Nerd Level 1 - command line: cURL
@@ -20,13 +20,15 @@ Suppose I want to grab the homepage of my website, mariehuynh.com:
 curl www.mariehuynh.com
 
 ```
-If you actually do this, it will print out the source code of that page on your screen.  Not a great way to look at HTML, but fine if you just want to see what's there.  Most of the time, you'll probably want to have it output to a file.  That's what the -O flag is for.  
+If you actually do this, it will print out the source code of that page on your screen.  Not a great way to look at HTML, but fine if you just want to see what's there.  Most of the time, you'll probably want to have it output to a file with the same name.  That's what the -O flag is for.  
 
 ```
 curl -O https://raw.githubusercontent.com/amueller/word_cloud/master/examples/masked.py
 ```
 
-This will effectively download the file and save it as masked.py for you.  For more flag options, [check out the manual.](https://curl.haxx.se/docs/manpage.html)
+This will effectively download the file and save it as masked.py for you.  Try it with the image files too.
+
+For more power user flag options, [check out the curl manual.](https://curl.haxx.se/docs/manpage.html)
 
 #### Nerd Level 2 - command line: git
 This is left as an exercise for the reader
