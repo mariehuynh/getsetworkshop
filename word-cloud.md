@@ -77,13 +77,17 @@ set(['', 'all', "she'll", 'just', "don't", 'being', 'over', 'through', 'yourselv
 
 
 
+If you want to scale it up for printing, add the scale parameter. Or limit the size of the biggest word with
 
+```
+max_font_size:wc = WordCloud(background_color="white", 
+                             max_words=2000, 
+                             mask=alice_mask,
+                             stopwords=stopwords, 
+                             scale = 4, 
+                             max_font_size = 40)
 
-
-* If you want to scale it up for printing, add the scale parameter. Or limit the size of the biggest word with max\_font\_size:
-  * wc = WordCloud\(background\_color="white", max\_words=2000, mask=alice\_mask,
-
-     stopwords=stopwords, scale = 4, max\_font\_size = 40\)
+```
 
 * Documentation
   * [http:\/\/amueller.github.io\/word\_cloud\/](http://amueller.github.io/word_cloud/)
