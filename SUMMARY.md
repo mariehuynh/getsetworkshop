@@ -15,6 +15,6 @@
         * [Word Cloud](word-cloud.md)
             * [Installing the library](installing-the-library.md)
             * [Getting the Files](running-the-example.md)
-            * Running the Example
+            * [Running the Example](running-the-example.md)
 * [About](about.md)
 
