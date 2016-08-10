@@ -17,4 +17,6 @@
             * [Getting the Files](getting-the-files.md)
             * [Running the Example](running-the-example.md)
 * [About](about.md)
+* [Where to go from here](where-to-go-from-here.md)
+* [Text Editors](editors.md)
 
