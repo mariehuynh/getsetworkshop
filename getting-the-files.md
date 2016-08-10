@@ -33,7 +33,7 @@ If you actually do this, it will print out the source code of that page on your 
 
 ```
 
-curl -O https://raw.githubusercontent.com/amueller/word_cloud/master/examples/masked.py
+curl -O https://raw.githubusercontent.com/mariehuynh/word_cloud/master/examples/masked.py
 
 ```
 
