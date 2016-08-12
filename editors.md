@@ -20,8 +20,10 @@ Editors have come a long way since the 70's, adding all sorts of new features al
 Some people love them.  Some hate them.  Some merely tolerate them because it's required by their workplace.
 
 
+#### What I use
+As of this writing, I currently use Sublime for most of my development, but I still use vi occasionally.  If I need to make a minor edit to a file while on the command line, it's faster to use vi than start up Sublime and deal with the GUI if it's not already open.  My hands never have to leave the keyboard while I work.  
 
-
+Is this worth the overhead of learning to use vi?  That's up to you.  All shortcuts take some time to memorize.  Old tools aren't exactly user friendly.  You can get quite far as a software developer without deeply understanding how to use the command line, but even if you don't spend much time using the command line, it is a skill that sets you apart as being more capable than others who only know how to work the GUIs.  I recommend investing an afternoon in playing with vi/emacs to see what they are capable of, just for the experience.
 
 
 [Sublime](https://www.sublimetext.com/)
