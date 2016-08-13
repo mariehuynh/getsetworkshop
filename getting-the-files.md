@@ -42,6 +42,10 @@ This will effectively download the file and save it as masked.py for you.  Try i
 For more power user flag options, [check out the curl manual.](https://curl.haxx.se/docs/manpage.html)
 
 #### Nerd Level 2 - command line: git
+```git clone URL 
+```
+
+where URL is the web address
 
 This is left as an exercise for the reader
 
