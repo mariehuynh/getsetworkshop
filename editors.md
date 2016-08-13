@@ -12,7 +12,7 @@ Nowadays, the war between those two has died down a bit with the rise of modern 
 
 #### Modern editors
 
-Editors have come a long way since the 70's, adding all sorts of new features along the way.  Some, like Sublime Text, have their own built-in package management system for all the plugins and customizations people have contributed.  
+Editors have come a long way since the 70's, adding all sorts of new features along the way.  Some, like Sublime Text, have their own built-in package management system for all the plugins and customizations people have contributed, of which there are many because you can customize just about everything.    
 
 
 
