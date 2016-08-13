@@ -45,7 +45,7 @@ For more power user flag options, [check out the curl manual.](https://curl.haxx
 ```git clone URL 
 ```
 
-where URL is the web address
+Replace URL with the web address of the file.
 
-This is left as an exercise for the reader
+This is left as an exercise for the reader.  Good luck.
 
