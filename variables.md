@@ -53,11 +53,15 @@ print (meatRatio)
 ---
 ### Typecasting
 Things get a little more tricky when you want to print a number with a string though. Again, the computer isn't very smart and in this language, you should match it, like you do with gendered nouns. It's las tortillas but los frijoles. The grammar of Python requires numbers to be matched to strings of letters when you use them together like this:
+
 ```
 print("This burrmeato is " + str(meatRatio) + " percent meat!")
 ```
+
 Putting that str() around the number to make it play nicely with the other type is called typecasting.
 
+---
+### Lists
 Variables can also hold more than one item at a time. Here’s how you can make a list of names and get them out.
 ```
 >>> ghostbusters = ["Abby", "Erin", "Jill", "Patty"]
