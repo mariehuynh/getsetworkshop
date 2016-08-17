@@ -59,27 +59,16 @@ Putting that str() around the number to make it play nicely with the other type 
 Variables can also hold more than one item at a time. Here’s how you can make a list of names and get them out.
 ```
 >>> ghostbusters = ["Abby", "Erin", "Jill", "Patty"]
-
 >>> ghostbusters[0]
-
 'Abby'
-
 >>> ghostbusters[1]
-
 'Erin'
-
 >>> ghostbusters[2]
-
 'Jill'
-
 >>> ghostbusters[3]
-
 'Patty'
-
 >>> ghostbusters.append(“Secretary")
-
 >>> ghostbusters
-
 ['Abby', 'Erin', 'Jill', 'Patty', ’Secretary']
 
 ```
