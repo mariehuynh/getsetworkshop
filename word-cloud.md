@@ -6,9 +6,9 @@ Now, back to things you can actually do. There’s a python library called wordc
 
 Sample code is here:
 
-[https:\/\/github.com\/amueller\/word\_cloud](https://github.com/amueller/word_cloud/tree/master/examples)
+[https://github.com/amueller/word_cloud](https://github.com/amueller/word_cloud/tree/master/examples)
 
-[https:\/\/github.com\/amueller\/word\_cloud\/blob\/master\/examples\/masked.py](https://github.com/amueller/word_cloud/blob/master/examples/masked.py)
+[https://github.com/amueller/word_cloud/blob/master/examples/masked.py](https://github.com/amueller/word_cloud/blob/master/examples/masked.py)
 
 
 
