@@ -1,9 +1,8 @@
 # Hardware
 
-Before we get to the coding, let’s talk about what the parts of the computer are.  Obviously, there’s a monitor in front of you,
-but what are the other parts?  What’s in the box hooked up to it?
+Before we get to the coding, let’s talk about what the parts of the computer are.  Obviously, there’s a monitor in front of you, but what are the other parts?  What’s in the box hooked up to it?
 
-Some key components
+### Some key components
 
 - CPU - Central Processing Unit
     - does the basic math, logic, control, input/output operations
