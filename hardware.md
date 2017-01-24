@@ -1,6 +1,6 @@
 # Hardware
 
-How many of you have taken a computer class?
+
 
 
 Before we get to the coding, let’s talk about what the parts of the computer are.  Obviously, there’s a monitor in front of you,
