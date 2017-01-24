@@ -3,4 +3,4 @@ Computers get their name from their original purpose: to _compute_ numbers. That
 
 Modern programming doesn't actually require math most of the time.  There's a lot of existing code that abstracts that away into libraries that will do the calculations, timing, image processing, etc. for you.
 
-Rear Admiral Grace M. Hopper invented the first compiler for a computer programming language. Compilers translate programming languages, which are easier for humans to read, into a binary form that can be run as a program by computers.  Many languages still require compilers, but modern ones like Python don't require compiling before usage.  
+Rear Admiral Grace M. Hopper invented the first compiler for a computer programming language. Compilers translate programming languages, which are easier for humans to read, into a binary form that can be run as a program by computers.  Many languages still require compilers, but modern ones like Python are saved in scripts instead, and allow you to skip this step.
