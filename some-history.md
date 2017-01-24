@@ -1,5 +1,5 @@
 # Some history
-Computers get their name from their original purpose: they were originally designed to _compute_ numbers. That is, they were (and still are) actually fancy calculators at heart. The graphics have gotten prettier and the hardware faster, but everything that you see it do is represented by numbers and generated with calculations.  All the intelligence you see is clever code that people have written to make it act like it's intelligent.
+Computers get their name from their original purpose: to _compute_ numbers. That is, they were (and still are) actually fancy calculators at heart. The graphics have gotten prettier and the hardware faster, but everything that you see it do is represented by numbers and generated with calculations.  All the intelligence you see is just clever code that people have written to make it act like it's intelligent.
 
 Modern programming doesn't actually require math most of the time.  There's a lot of existing code that abstracts that away into libraries that will do the calculations, timing, image processing, etc. for you.
 
