@@ -1,0 +1,6 @@
+# Some history
+Computers get their name from their original purpose: they were originally designed to _compute_ numbers. That is, they were (and still are) actually fancy calculators at heart. The graphics have gotten prettier and the hardware faster, but everything that you see it do is represented by numbers and generated with calculations.  All the intelligence you see is clever code that people have written to make it act like it's intelligent.
+
+Modern programming doesn't actually require math most of the time.  There's a lot of existing code that abstracts that away into libraries that will do the calculations, timing, image processing, etc. for you.
+
+Rear Admiral Grace M. Hopper invented the first compiler for a computer programming language. Compilers translate programming languages, which are easier for humans to read, into a binary form that can be run as a program by computers.  Many languages still require compilers, but modern ones like Python don't require compiling before usage.  

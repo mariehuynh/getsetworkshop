@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Intro to Python](intro_to_python.md)
+    * [Some History](some-history.md)
     * [Hardware](hardware.md)
     * [What is programming?](what_is_programming.md)
     * [Where Python Fits in](where_python_fits_in.md)
